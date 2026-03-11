@@ -1,2 +1,2 @@
-# Hello World!
+# Hello, world!
 Primeiro repositório no Git e Git Hub
